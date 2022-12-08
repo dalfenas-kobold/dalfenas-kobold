@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dalfenas-kobold
+- 👋 Hi, I’m Daniel @dalfenas-kobold
 - 👀 I’m interested in Software engineering, specially architecture, algorithms and management. Outside the technology world, I am a runner and wildlife photographer.
 - 🌱 I’m currently re-learning C# and .Net, as I am working with Java since 2007
 - 📫 That is an account dedicated to Kobold, where I work now.
